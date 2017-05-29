@@ -1,5 +1,5 @@
 # RSA Encrypt Decrypt
-Tool to encrypt and decrypt using RSA encryption
+Tool to encrypt and decrypt using RSA symmetric/asymmetric algorithm
 
 This tool let you generate Private and Public Key to Encrypt and Decrypt text using RSA Encryption.
 Remember that public key is used to encrypt and should not be given to the other party,
