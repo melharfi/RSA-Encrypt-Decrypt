@@ -12,3 +12,16 @@ If you would like only the executable here is the link to the release version:
 https://github.com/melharfi/RSA-Encrypt-Decrypt/releases/download/Release/RSAencryptDecrypt.exe
 
 This project need .Net Framework 4.5
+
+
+
+Licensed with MIT
+http://choosealicense.com/licenses/mit
+
+Feel free to contact me for any purpose or issue you find by my address email:
+
+m.elharfi@gmail.com
+
+If you like the project and would like to buy me a coffee, I’ll appreciate that
+
+Paypal account : m.elharfi@gmail.com
