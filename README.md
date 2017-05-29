@@ -2,6 +2,7 @@
 Tool to encrypt and decrypt using RSA symmetric/asymmetric algorithm
 
 This tool let you generate Private and Public Keys to Encrypt and Decrypt text using RSA Encryption.
+
 Remember that public key is used to encrypt and should not be given to the other party,
 and Private key is used to decrypt an encrypted RSA text and given to the othet party.
 
