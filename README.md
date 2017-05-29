@@ -1,4 +1,4 @@
-# RSA-Encrypt-Decrypt
+# RSA Encrypt Decrypt
 Tool to encrypt and decrypt using RSA encryption
 
 This tool let you generate Private and Public Key to Encrypt and Decrypt text using RSA Encryption.
