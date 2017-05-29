@@ -1,0 +1,8 @@
+E:\project\RSAencryptDecrypt\RSAencryptDecrypt\obj\Release\RSAencryptDecrypt.Form1.resources
+E:\project\RSAencryptDecrypt\RSAencryptDecrypt\obj\Release\RSAencryptDecrypt.Properties.Resources.resources
+E:\project\RSAencryptDecrypt\RSAencryptDecrypt\obj\Release\RSAencryptDecrypt.csproj.GenerateResource.Cache
+E:\project\RSAencryptDecrypt\RSAencryptDecrypt\bin\Release\RSAencryptDecrypt.exe.config
+E:\project\RSAencryptDecrypt\RSAencryptDecrypt\bin\Release\RSAencryptDecrypt.exe
+E:\project\RSAencryptDecrypt\RSAencryptDecrypt\bin\Release\RSAencryptDecrypt.pdb
+E:\project\RSAencryptDecrypt\RSAencryptDecrypt\obj\Release\RSAencryptDecrypt.exe
+E:\project\RSAencryptDecrypt\RSAencryptDecrypt\obj\Release\RSAencryptDecrypt.pdb

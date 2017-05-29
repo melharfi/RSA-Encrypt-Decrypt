@@ -1,0 +1,9 @@
+E:\project\RSAencryptDecrypt\RSAencryptDecrypt\bin\Debug\RSAencryptDecrypt.exe.config
+E:\project\RSAencryptDecrypt\RSAencryptDecrypt\bin\Debug\RSAencryptDecrypt.exe
+E:\project\RSAencryptDecrypt\RSAencryptDecrypt\bin\Debug\RSAencryptDecrypt.pdb
+E:\project\RSAencryptDecrypt\RSAencryptDecrypt\obj\Debug\RSAencryptDecrypt.Form1.resources
+E:\project\RSAencryptDecrypt\RSAencryptDecrypt\obj\Debug\RSAencryptDecrypt.Properties.Resources.resources
+E:\project\RSAencryptDecrypt\RSAencryptDecrypt\obj\Debug\RSAencryptDecrypt.csproj.GenerateResource.Cache
+E:\project\RSAencryptDecrypt\RSAencryptDecrypt\obj\Debug\RSAencryptDecrypt.exe
+E:\project\RSAencryptDecrypt\RSAencryptDecrypt\obj\Debug\RSAencryptDecrypt.pdb
+E:\project\RSAencryptDecrypt\RSAencryptDecrypt\obj\Debug\RSAencryptDecrypt.csprojResolveAssemblyReference.cache
