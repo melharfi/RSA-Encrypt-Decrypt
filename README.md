@@ -1,5 +1,7 @@
-<img src="resources/logo.ico">
+<img src="resources/logo.ico" width="60">
+
 # RSA Encrypt Decrypt
+
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/melharfi/MELHARFI-2D-Game-Engine/blob/master/LICENSE)
 
 <img src="resources/Capture.PNG" width = "600">
