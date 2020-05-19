@@ -2,7 +2,9 @@
 
 # RSA Encrypt Decrypt
 
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/melharfi/MELHARFI-2D-Game-Engine/blob/master/LICENSE)
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/melharfi/RSA-Encrypt-Decrypt/blob/master/LICENSE)
+[![Version](https://badge.fury.io/gh/tterb%2FHyde.svg)](https://github.com/melharfi/RSA-Encrypt-Decrypt)
+[![GitHub Release](https://img.shields.io/github/v/release/melharfi/RSA-Encrypt-Decrypt)](https://github.com/melharfi/RSA-Encrypt-Decrypt/releases) 
 
 <img src="resources/Capture.PNG" width = "600">
 
