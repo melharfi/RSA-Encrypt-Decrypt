@@ -1,7 +1,7 @@
-<img src="resources/Capture.PNG" width = "100">
-
 # RSA Encrypt Decrypt
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/melharfi/MELHARFI-2D-Game-Engine/blob/master/LICENSE)
+
+<img src="resources/Capture.PNG" width = "200">
 
 Tool to encrypt and decrypt using RSA symmetric/asymmetric algorithm
 
