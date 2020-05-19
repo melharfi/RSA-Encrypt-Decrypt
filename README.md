@@ -1,4 +1,6 @@
 # RSA Encrypt Decrypt
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/melharfi/MELHARFI-2D-Game-Engine/blob/master/LICENSE)
+
 Tool to encrypt and decrypt using RSA symmetric/asymmetric algorithm
 
 This tool let you generate Private and Public Keys to Encrypt and Decrypt text using RSA Encryption.
