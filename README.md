@@ -11,7 +11,7 @@
 
 <img src="resources/Capture.PNG" width = "600">
 
-Tool to encrypt and decrypt using RSA symmetric/asymmetric algorithm
+Tool to encrypt and decrypt using RSA encryption algorithm.
 
 This tool let you generate Private and Public Keys to Encrypt and Decrypt text using RSA Encryption.
 
